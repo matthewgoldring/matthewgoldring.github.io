@@ -1,7 +1,12 @@
 body{
-	font-family: "Rammetto One";
+	font-family: "Poppins";
 	text-align: left;
 	background: #DD3A3A;
+}
+h1 {
+	font-family: "Rammetto One";
+	font-size: 48px;
+	background: #DD343A
 }
 #nav{
 	margin-top: 30px;
